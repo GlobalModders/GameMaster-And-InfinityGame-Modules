@@ -1,0 +1,17 @@
+-----------------------------------------------------------------------------
+[	Name: Game Master														]
+[	Version: 1.0															]
+[	Type: Game Controller Tools												]
+[	Author: Dias Pendragon (Coder) & Kungfulon (CSO NST B3's Developer)		]
+-----------------------------------------------------------------------------
+OS: Windows & Linux
+
+Main Features: (Module)
+- Block Round End
+- Terminate Round
+
+Other Features: (Plugin)
+- Change Player's Model
+- Change Player's Team
+- Change Player's Speed
+- Forward Time per Second
